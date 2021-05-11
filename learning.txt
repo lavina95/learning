@@ -9,3 +9,7 @@ Restapi
 aGILE
 gIT
 svn
+
+
+javascript
+angular
